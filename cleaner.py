@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import cairosvg
 
 
-file_path = "diagramme de sequence Joindre un Quizz.svg"
+file_path = "Your SVG file path"
 output_svg_path = "cleaned_svg.svg"
 output_png_path = "cleaned_image.png"
 
