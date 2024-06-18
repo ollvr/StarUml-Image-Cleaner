@@ -1,6 +1,6 @@
 ## Introduction
 
-This Python program effectively cleans and simplifies SVG files exported from StarUML, removing unnecessary background elements that hinder readability. It leverages the cairosvg library for SVG rendering and xml.etree.ElementTree for parsing, generating both a cleaned SVG and a high-quality image.
+This Python program effectively cleans and simplifies SVG files exported from StarUML, removing unnecessary background elements that hinder readability. It leverages the cairosvg library for SVG rendering and xml.etree.ElementTree for parsing, generating both a cleaned SVG and an image.
 
 ## Benefits:
 
@@ -20,9 +20,9 @@ Install Dependency: Run pip install cairosvg to install the required library.
 Usage:
 
 Update File Path:
-Open clean_staruml_svg.py in a text editor.
+Open cleaner.py in a text editor.
 Locate the variable file_path and replace "Your SVG file path" with the actual path to your StarUML-exported SVG file.
-Run the Script: Execute python clean_staruml_svg.py in your terminal/command prompt.
+Run the Script: Execute python cleaner.py in your terminal/command prompt.
 
 ## Disclaimer:
 
