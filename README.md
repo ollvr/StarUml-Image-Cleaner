@@ -28,5 +28,5 @@ Run the Script: Execute python clean_staruml_svg.py in your terminal/command pro
 
 The cleaning process might require adjustments for highly customized StarUML diagrams. Please report any issues or suggest enhancements on GitHub.
 
-
+## Star Power!
 If you find this program useful, please show your appreciation by giving it a star on GitHub! Your support motivates further development and helps others enjoy cleaner StarUML exports.
